@@ -1,5 +1,5 @@
 #title{
-  background-color: #ff4c68
+  background-color: #8D9EFF
 }
 h1{
   font-family: 'Montserrat', sans-serif;
@@ -38,14 +38,18 @@ body{
 }
 
 .title-image{
-  width: 60%;
-  transform:rotate(25deg);
+  width: 100%;
+
 }
 
 .icon{
-  color: #FFB7B0;
+  color: #8D72E1;
   padding-top: 20px;
   padding-bottom: 20px;
+
+}
+.icon:hover{
+  color: #B9E0FF;
 }
 
 h3{
@@ -55,6 +59,5 @@ h3{
 p{
   color: #4F4F4F;
   text-align: center;
-  
-
+  padding-top: 0;
 }
