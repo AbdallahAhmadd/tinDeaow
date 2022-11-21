@@ -16,6 +16,14 @@ h2{
   color: #FFF;
   text-align: center;
 }
+h4{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+
+  text-align: center;
+}
 #testimonials{
   padding: 7% 20%;
   background-color: #8D9EFF;
@@ -30,6 +38,10 @@ h2{
   text-align: center;
 
 }
+#pricing{
+  text-align: center;
+}
+
 .tnw{
   width: 170px;
   margin: 20px 60px 20px;
@@ -61,6 +73,7 @@ body{
 
 .Download-button{
   margin: 5% 3% 5% 0;
+
 }
 
 .title-image{
@@ -92,9 +105,29 @@ p{
 .card{
   border-radius: 15px;
   margin: auto;
-  margin-top: 6%;
 
 }
 .container{
-  margin-top: 60px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+#cta{
+  background-color: #8D9EFF;
+  text-align: center;
+  color: #FFF;
+  padding: 7% 15% ;
+}
+.cta-heading{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 2.8rem;
+  line-height: 1.5;
+}
+#footer{
+  background-color: #FFF;
+  text-align: center;
+  padding-top: 6%
+}
+.social{
+  margin:4px 7px;
 }
