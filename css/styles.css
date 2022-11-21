@@ -8,6 +8,32 @@ h1{
   font-weight: bold;
   color: #FFF;
 }
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #FFF;
+  text-align: center;
+}
+#testimonials{
+  padding: 7% 20%;
+  background-color: #8D9EFF;
+  text-align: center;
+}
+.circle{
+  border-radius: 100%;
+  width: 100px
+}
+#press{
+  background-color: #8D9EFF;
+  text-align: center;
+
+}
+.tnw{
+  width: 170px;
+  margin: 20px 60px 20px;
+}
 
 body{
   font-family: 'Montserrat', sans-serif;
@@ -60,4 +86,15 @@ p{
   color: #4F4F4F;
   text-align: center;
   padding-top: 0;
+}
+
+
+.card{
+  border-radius: 15px;
+  margin: auto;
+  margin-top: 6%;
+
+}
+.container{
+  margin-top: 60px;
 }
